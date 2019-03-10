@@ -1,0 +1,16 @@
+PODS:
+  - SYZBaiduOAuthSDK (0.1.0)
+
+DEPENDENCIES:
+  - SYZBaiduOAuthSDK (from `../`)
+
+EXTERNAL SOURCES:
+  SYZBaiduOAuthSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SYZBaiduOAuthSDK: 346358cb681fd57df5a72be70822b6a159cd3bab
+
+PODFILE CHECKSUM: f6ba120ae61e7ed83ef80e63a9704a035a5ca3d5
+
+COCOAPODS: 1.4.0

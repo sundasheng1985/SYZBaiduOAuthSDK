@@ -1,0 +1,6 @@
+framework module SYZBaiduOAuthSDK {
+  umbrella header "SYZBaiduOAuthSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

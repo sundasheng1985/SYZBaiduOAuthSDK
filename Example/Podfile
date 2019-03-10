@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SYZBaiduOAuthSDK_Tests' do
+  pod 'SYZBaiduOAuthSDK', :path => '../'
+  
+  
+end
